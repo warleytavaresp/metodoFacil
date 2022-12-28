@@ -7,36 +7,79 @@ title: 01. Introdução
 </div>
 # Introdução
 
-Esse hackbook lhe permitirá parar de usar pornografia imediatamente, sem dor, e permanentemente. Sem força de vontade ou qualquer sensação de estar sendo privado ou fazendo um sacrifício. Ele não lhe julgará, envergonhará, nem irá te pressionar a tomar medidas dolorosas.
+<span style="font-size:xx-large;">NÃO PULE CAPÍTULOS</span>
+
+Esse livro de código aberto lhe permitirá parar de usar pornografia imediatamente, sem dor, e permanentemente. Sem força de vontade ou qualquer sensação de estar sendo privado ou estar fazendo um sacrifício. Ele não lhe julgará, envergonhará, nem irá te pressionar a tomar medidas dolorosas.
 
 Na verdade, não há necessidade de cortar ou reduzir seu uso durante a leitura; fazer isso é prejudicial, na verdade.
 
-Talvez isso vá contra tudo que você escutou, mas se pergunte se o que você ouviu funcionou? Se tivesse funcionado, você não estaria lendo esse livro.
+Pode ser que você esteja apreensivo quanto ao simples pensamento ou uma das [milhões](https://old.reddit.com/r/nofap) [de tentativas](https://rebootnation.org/) [deliberadas](https://old.reddit.com/r/pornfree) de [parar](https://yourbrainrebalanced.com/). Caso esteja, talvez o que já leu vá contra tudo que você escutou, mas se pergunte se o que você escutou funcionou? Se tivesse funcionado, você não estaria lendo esse livro.
 
-O vício em pornografia se manifesta na nossa sociedade de várias formas e com múltiplos efeitos. Muitas pessoas usam pornografia porque a internet permite o acesso instantâneo ao *estímulo sobrenatural* que ela proporciona. Pense se as seguintes questões se aplicam a você.
+Talvez você se identifica com as seguintes questões:
 
 - Você passa mais tempo do que o planejado assistindo pornô?
 
-- Você não obtêm sucesso nas tentativas de parar ou de limitar o consumo de pornografia?
+- Você não obtêm sucesso nas tentativas de parar ou de limitar seu consumo de pornografia?
 
-- O tempo vendo pornografia já interferiu, ou foi considerado mais importante do que compromissos pessoais ou profissionais, hobbies, ou relacionamentos na sua vida?
+- O tempo vendo pornografia já interferiu ou teve prioridade sobre compromissos pessoais ou profissionais, hobbies, ou relacionamentos na sua vida?
 
-- Você se esforça para manter o seu consumo de pornografia escondido (ex: deletar o histórico do navegador, mentir sobre o consumo)?
+- Você se esforça para manter o seu consumo de pornografia escondido (e.g. deletar o histórico do navegador, mentir sobre o consumo)?
 
-- Ver pornografia já causou algum problema nos seus relacionamentos íntimos?
+- Ver pornografia já causou algum problema significativo nos seus relacionamentos íntimos?
 
-- Você experimenta ciclos de excitação e prazer antes e durante o consumo da pornografia seguido de sentimentos de vergonha, culpa e remorso depois do uso?
+- Você experimenta ciclos de excitação e prazer antes e durante o consumo da pornografia, seguido de sentimentos de vergonha, culpa e remorso depois do uso?
 
 - Você passa um tempo significativo pensando sobre pornô, até mesmo quando não está assistindo?
 
-- A pornografia já te trouxe alguma outra consequência negativa na sua vida pessoal ou profissional (ex: faltar trabalho, pouca performance, relacionamentos negligenciados, problemas financeiros)?
+- A pornografia já te trouxe alguma outra consequência negativa na sua vida pessoal ou profissional (e.g. faltar trabalho, performance baixa, relacionamentos negligenciados, problemas financeiros)?
 
-Se você é um usuário da pornografia que depende dela para a masturbação ou sexo, tudo que você precisa fazer é continuar lendo.
+Se você é um usuário da pornografia que depende dela para a masturbação ou sexo *sempre* e *por qualquer razão*, tudo que você precisa fazer é continuar lendo. Se você está aqui por alguém que ama, tudo que você precisa fazer é convencê-lo(a) a ler o livro. Se você for incapaz de persuadi-lo(a), leia o livro você mesmo(a). Entender o método ajuda a espalhar a mensagem e prevenir que seus filhos comecem a usar. Não se engane com o fato de que eles não têm acesso agora — todos acessamos antes de ficarmos viciados. 
 
-Se você está aqui por causa de um amado ou amada, tudo que você precisa fazer é convencê-lo(a) a ler o livro.
+## Sobre o livro
 
-Se você for incapaz de convencê-lo(a), leia o livro você mesmo. Entender o método ajuda  a espalhar a mensagem e prevenir que seus filhos comecem a usar. Não se engane com o fato de que eles não têm acesso agora -- o vício vem com o acesso. 
+Esse livro é um versão reescrita de uma [adaptação](https://web.archive.org/web/20201014165025/https://sites.google.com/site/hackbookeasypeasy/) do livro *O Método Fácil de Parar de Fumar*, de *Allen Carr*, para pornografia. O livro é grátis e de código aberto, sob licença CC-BY-SA. O sucesso do livro está sobre o fundamento de que você:
 
+<span style="font-size:xx-large;">NÃO PULE CAPÍTULOS</span>
+
+Quando se está abrindo uma fechadura de código, você deve colocar os números na oredm certa. Com os vícios, não é nada diferente.
+
+Pessoalmente, a [versão original do Google Sites] (https://web.archive.org/web/20201014165025/https://sites.google.com/site/hackbookeasypeasy/) (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, descobriu a pornografia quando era relativamente novo e tem usado dela desde então. Até tropeçar na esmagadora — e de alguma forma, censurada — 
+literatura avisando dos perigos. Assim como eu, você provavelmente consegue sequências de variadas quantidades de tempo, mas sempre acaba eventualmente sucumbindo a impulsos ilusórios. Tenho o prazer de relatar que esse método funciona de uma maneira totalmente diferente e tem sido o único método que tem funcionado.
+
+Ou talvez você chegou a esse livro por orientação de alguém preocupado contigo e você está cético. Primeiramente, obrigado por pelo menos olhar pro livro. Em breve o método será desenvolvido, mas, por favor, brevemente relembre a primeira vez que viu pornografia. Você esperava que fosse retornar a ela pelo resto da sua vida? De acordo com meus próprios estudos informais sobre esse tópico (importunar amigos para lerem esse livro), EasyPeasy é igualmente efetivo tanto para usuários casuais de pornô quanto para usuários altamente viciados. O livro não é terrivelmente longo, tem altas chances de grandes ganhos, então, imploro que continuem lendo.
+
+O método descrito nesse hackbook é:
+
+- Instantâneo.
+- Igualmente efetivo para usuários casuais e altamente viciados.
+- Não causa dor de abstinência.
+- Não precisa de força de vontade.
+- Não precisa de tratamento de choque, recursos auxiliares ou truques.
+- Não vai necessitar que você substitua esse vício por outros vícios, como comer muito, fumar ou beber.
+- Permanente.
+
+Você pode achar isso impossível de acreditar, mas esse sentimento ecoa por muitas pessoas.
+
+> *“Este é o trabalho seminal sobre o vício em pornografia”*
+>
+> --- Um cara no reddit que não consigo encontrar, acho que o trocadilho foi intencional.
+
+> *“Fiquei viciado por 10 anos. Naqueles 10 anos, estive debilitado pela depressão, dúvida, ansiedade e medo que meu segredo fosse descoberto. Depois de cada sessão, eu me odiava, e depois de cada dieta pornográfica eu estava de volta ao tobogã imediatamente. No entanto, este livro me ajudou a parar. Eu sempre estive na defensiva contra o pornô no passado. Agora, depois de ler este livro duas vezes, estou na ofensiva. A pornografia não tem controle sobre mim e parece uma piada de mal gosto agora.”*
+>
+> --- u/DeepNewt
+
+> *"Há alguns dias, fiz 20 anos. Pela primeira vez em muito tempo, passei meu aniversário livre da armadilha da pornografia e é tudo graças a este livro em que esbarrei por acaso há apenas alguns meses. Antes disso, eu havia passado tanto tempo tentando parar por meios tradicionais, experimentei tantos tumultos internos e me rotulei permanentemente como um viciado. O livro resolveu tudo isso para mim. Onde eu anteriormente temia não ter controle sobre mim, mesmo quando eu, sem saber, já tinha vencido o pequeno monstro, agora posso ter orgulho em perceber que não preciso mais ser um viciado.
+
+Eu não tenho uma razão pra postar isso, eu simplesmente senti que devia colocar isso pra fora em algum lugar sem ser dentro da minha própria cabeça, porque isso significa tanto pra mim. Se você estiver lendo isso e estiver pensando em ler ou recomendar o livro, vai comigo que ele funciona melhor que qualquer método por aí. Minha maior dica é que você faça anotações, o que soa engraçado, mas realmente me ajudou a solidificar certas ideias.*
+>
+> --- u/Suspicious_Web_4594
+
+> *“based”*
+>
+> --- anon, /fit/
+
+
+
 ## Atenção
 
 Talvez você esteja apreensivo pela leitura do livro. Talvez, igual muitos usuários de pornô, o simples pensar em parar enche sua mente de pânico e que embora tenha intenção de parar algum dia, esse dia não é hoje.
