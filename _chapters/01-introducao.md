@@ -13,7 +13,7 @@ Esse livro de código aberto lhe permitirá parar de usar pornografia imediatame
 
 Na verdade, não há necessidade de cortar ou reduzir seu uso durante a leitura; fazer isso é prejudicial, na verdade.
 
-Pode ser que você esteja apreensivo quanto ao simples pensamento ou uma das [milhões](https://old.reddit.com/r/nofap) [de tentativas](https://rebootnation.org/) [deliberadas](https://old.reddit.com/r/pornfree) de [parar](https://yourbrainrebalanced.com/). Caso esteja, talvez o que já leu vá contra tudo que você escutou, mas se pergunte se o que você escutou funcionou? Se tivesse funcionado, você não estaria lendo esse livro.
+Pode ser que você esteja apreensivo quanto ao pensamento de parar em si ou uma das [milhões](https://old.reddit.com/r/nofap) [de tentativas](https://rebootnation.org/) [deliberadas](https://old.reddit.com/r/pornfree) de [parar](https://yourbrainrebalanced.com/). Caso esteja, talvez o que já leu vá contra tudo que você escutou, mas se pergunte se o que você escutou funcionou? Se tivesse funcionado, você não estaria lendo esse livro.
 
 Talvez você se identifica com as seguintes questões:
 
@@ -46,7 +46,7 @@ Quando se está abrindo uma fechadura de código, você deve colocar os números
 Pessoalmente, a [versão original do Google Sites] (https://web.archive.org/web/20201014165025/https://sites.google.com/site/hackbookeasypeasy/) (que não foi escrita por mim) mudou minha vida. Se você é como a maioria das pessoas, descobriu a pornografia quando era relativamente novo e tem usado dela desde então. Até tropeçar na esmagadora — e de alguma forma, censurada — 
 literatura avisando dos perigos. Assim como eu, você provavelmente consegue sequências de variadas quantidades de tempo, mas sempre acaba eventualmente sucumbindo a impulsos ilusórios. Tenho o prazer de relatar que esse método funciona de uma maneira totalmente diferente e tem sido o único método que tem funcionado.
 
-Ou talvez você chegou a esse livro por orientação de alguém preocupado contigo e você está cético. Primeiramente, obrigado por pelo menos olhar pro livro. Em breve o método será desenvolvido, mas, por favor, brevemente relembre a primeira vez que viu pornografia. Você esperava que fosse retornar a ela pelo resto da sua vida? De acordo com meus próprios estudos informais sobre esse tópico (importunar amigos para lerem esse livro), EasyPeasy é igualmente efetivo tanto para usuários casuais de pornô quanto para usuários altamente viciados. O livro não é terrivelmente longo, tem altas chances de grandes ganhos, então, imploro que continuem lendo.
+Ou talvez você chegou a esse livro por orientação de alguém preocupado contigo e você está cético. Primeiramente, obrigado por pelo menos olhar pro livro. Em breve o método será desenvolvido, mas, por favor, brevemente relembre a primeira vez que viu pornografia. Você esperava que fosse retornar a ela pelo resto da sua vida? De acordo com meus próprios estudos informais sobre esse tópico (importunar amigos para lerem esse livro), o Método Fácil é igualmente efetivo tanto para usuários casuais de pornô quanto para usuários altamente viciados. O livro não é terrivelmente longo, tem altas chances de grandes ganhos, então, imploro que continuem lendo.
 
 O método descrito nesse hackbook é:
 
@@ -78,82 +78,107 @@ Eu não tenho uma razão pra postar isso, eu simplesmente senti que devia coloca
 >
 > --- anon, /fit/
 
-
-
 ## Atenção
 
-Talvez você esteja apreensivo pela leitura do livro. Talvez, igual muitos usuários de pornô, o simples pensar em parar enche sua mente de pânico e que embora tenha intenção de parar algum dia, esse dia não é hoje.
+Se você está esperando que este livro “assuste” você até abandonar, usando os vários riscos de problemas de saúde de usuários, como disfunção sexual (incluindo disfunção erétil induzida por pornografia), excitação não-confiável, perda de interesse em parceiros sexuais reais, hipofrontalidade cerebral e a acusação cega de que é um hábito imundo, nojento e que você é um estúpido, covarde, uma ameba sem força de vontade, você ficará dolorosamente desapontado. Essas táticas nunca me ajudaram a abandonar e se fossem ajudar você, você já teria desistido.
 
-Se você está esperando esse livro te ’assustar’ para você parar, citando vários problemas de saúde que usuários expõem, como disfunção sexual (incluindo disfunção erétil induzida pela pornografia), excitação inconsistente, perda de interesse em sexo, hipofrontalidade cerebral, e a acusação de que esse é um hábito repugnante e sujo e de que *você* é estúpido, fraco, você se desapontará. Essas táticas nunca me ajudaram a parar com o vício e se se fossem ajudar você, já teria parado.
+Métodos convencionais para abandonar o vício defendem o uso de força de vontade ou método de substituição do pornô, como dietas de "uma vez a cada *n* dias" ou diminuir o consumo. Alguns *sites* listam pesquisas revistas por pares sobre neurotransmissores e neuroplasticidade e embora esses *sites* sejam informativos, muitas pessoas, cientes dos riscos à saude, escolhem não fazer nada, apesar desse tipo de material ser tipicamente evitado. Em última análise, eles são igualmente ineficientes já que, de fato, não removem as razões para usar pornô. Em última análise, transformar algo num fruto proibido não é como você trata vícios.
 
-Métodos convencionais de se livrar do vício nos ensinam a usar a força de vontade ou substitutos como dietas de pornografia (usar apenas a cada x dias) e cortar o consumo, que é igualmente ineficaz pois não remove as razões para usar a pornografia. Por fim, transformar algo em proibido não é como se cura um vício.
+Esse método, denominado Método Fácil, funciona de maneira diferente. Algumas das coisas que serão ditas podem ser difíceis de acreditar, mas quando você terminar este livro, você não apenas acreditará, mas também se perguntará como pôde ter sofrido uma lavagem cerebral para acreditar de outra forma.
 
-Muitos sites detalham os efeitos da pornografia no cérebro, usando sólidas pesquisas que falam acerca dos neurotransmissores e da neuroplasticidade. Embora esses sites sejam informativos, muitos estão cientes dos perigos da pornografia mas mesmo assim escolhem não fazer nada. Usuários jovens e velhos evitam esse material apesar de tudo, sentindo segurança ao pensar que uma simples olhada em pornografia não vai matar.
+Existe um equívoco comum de que escolhemos assistir pornografia. Viciados em pornografia (sim, viciados) não escolhem assistir pornografia mais do que os alcoólatras escolhem se tornar alcoólatras, do que os viciados em heroína escolhem se tornar viciados em heroína. É verdade que escolhemos inicializar o laptop ou smartphone, abrir o navegador e visitar nosso "harém online" favorito. Ocasionalmente, escolho ir ao cinema, mas eu certamente não escolhi passar minha vida inteira nas salas de cinema. Originalmente, a curiosidade e a natureza humana me levaram até lá, mas eu não teria começado se soubesse que me tornaria viciado, causando o declínio da minha saúde, felicidade e relacionamentos. “*Se eu tivesse ao menos ouvido falar sobre disfunção sexual na minha primeira visita àquele site pornô!*”
 
-Esse método, referenciado como Método Fácil, funciona de forma diferente. Algumas coisas que serão ditas talvez sejam difíceis de serem acreditadas mas assim que você terminar o livro você não só acreditará nelas, você se perguntará como você sofreu a lavagem cerebral que te forçou a acreditar no contrário.
+Tire um momento para refletir, você alguma vez tomou a decisão "positiva" de que você deve/precisa de pornografia para se masturbar? Ou que você deve/precisa usar fantasias induzidas por pornografia para apimentar o sexo com seu parceiro? Ou que, em certos momentos da sua vida, você não conseguiria ter uma boa noite de sono ou talvez até mesmo passar uma noite depois de um dia duro de trabalho sem navegar nos *sites* de pornografia? Ou que, você não conseguiria se concentrar ou lidar com o estresse sem ela? Em que estágio você decidiu que precisava de pornografia, que precisava dela permanentemente em sua vida, sentindo-se inseguro, até mesmo em pânico, sem pornografia, sem seu harém online?
 
-Há um equívoco comum no pensamento de que escolhemos assistir pornô. Viciados em pornografia (sim, viciados) não decidem assistir pornô assim como os alcoólatras não decidem se tornar alcoólatra e os viciados em heroína não decidem se tornar viciados em heroína. É verdade que tomamos a decisão de ligar o computador ou celular, abrir o navegador e visitar o nosso ’harém virtual’ favorito. Às vezes eu decido ir ao cinema mas certamente eu não decidi passar a minha vida inteira na sala do cinema. A princípio, a natureza humana e a curiosidade me levaram até lá, mas eu não teria começado se soubesse que me tornaria um viciado, trazendo malefícios para a minha saúde, felicidade e relacionamentos. *"Ah se eu soubesse sobre a disfunção sexual na minha primeira visita à um site pornô!"*
+Como qualquer outro usuário de pornografia, você foi atraído para a armadilha mais sinistra e sutil que o homem e a natureza já se uniram para inventar. Não existe uma pessoa viva, seja um usuário ou não, que goste da ideia de seus filhos usarem pornografia para lidar com problemas ou por prazer. Isso significa que todos os viciados queriam nunca ter começado. Isso não é surpreendente: ninguém precisa de pornografia para aproveitar a vida ou lidar com o estresse antes de ficar viciado.
 
-Reflita um momento, você alguma vez chegou à conclusão de que você deveria/precisaria assistir pornô para se masturbar? Ou que você deveria/precisaria de fantasias induzidas pela pornografia para apimentar o sexo com seu parceiro(a)? Ou que em algum momento da sua vida você não conseguiria desfrutar de uma boa noite de sono ou talvez uma noite sem olhar pornografia depois de um longo dia de trabalho? Ou que você não conseguiria se concentrar ou lidar com o estresse sem usar o pornô? Em que fase da sua vida você decidiu que *precisaria* da pornografia, que *precisaria* sempre dela na sua vida, que se sentiria inseguro e em pânico sem pornô, sem seu harém virtual?
+Ao mesmo tempo, todos os usuários querem continuar a usar. Afinal, ninguém nos força a iniciar o modo de navegação anônima do nosso navegador. Quer eles entendam o motivo, quer não, são apenas os usuários que decidem bater às portas de seus haréns online.
 
-Como qualquer outro usuário, você foi seduzido pela armadilha mais sinistra e sutil inventada, em combinação, pela natureza e pelo ser humano. Não há uma pessoa viva, usuária ou não, que gosta do pensamento de que seu filho esteja usando pornografia como muleta ou prazer. Isso significa que todos os viciados desejariam nem ter começado. Não é nada surpreendente: antes de ficar viciado, ninguém precisa de pornô para aproveitar a vida ou lidar com o estresse.
+Se houvesse um botão mágico que o usuário pudesse pressionar para acordar na manhã seguinte como se nunca tivesse acessado seu primeiro *site* “*tube*”, os únicos viciados amanhã seriam os jovens que ainda estão “experimentando”.
 
-Ao mesmo tempo, todos os usuários desejam continuar. Afinal, ninguém nos força a abrir a guia anônima. Quer entendam a razão ou não, é apenas o usuário que decide bater na porta dos seus haréns virtuais.
+A única coisa que nos impede de desistir é o **MEDO!** Medo causado pela crença de que teremos que sobreviver a um período indeterminado de miséria, privação e desejo não saciado para nos livrarmos da pornografia. Eles são gerados por crenças irracionais, tanto aprendidas quanto adquiridas, como:
 
-Se existisse um botão mágico que o usuário pudesse apertar para acordar no dia seguinte como se nunca tivesse acessado o primeiro site pornográfico da sua vida, os únicos viciados que existiriam amanhã seriam os jovens que ainda estão ’experimentando’.
+- Masturbação ou sexo com orgasmo é a *única* e *mais* importante coisa na vida.
 
-A única coisa que nos impede de parar é o **MEDO!** Medo causado pela crença de que precisaremos sobreviver um tempo indeterminado de angústia, privação e desejos insaciados para se livrar da pornografia. Esses pensamentos surgem de crenças irracionais, ambas aprendidas e adquiridas, como:
+- Pornografia é “mais segura” do que sexo na vida real porque a pornografia não pode me rejeitar.
 
-- Masturbação ou sexo com orgasmo é a *única* e *mais* importante parte da vida.
-- Pornô é ’mais seguro’ que sexo porque o pornô não pode me rejeitar.
-- Pornô é educativo e útil.
+- A pornografia é educativa e útil.
+
+- Direito a uma experiência sexual “superior”.
+
 - Mais é sempre melhor.
 
-Essas crenças irracionais levam a consequências irracionais quando levadas a sério, incluindo:
+Essas crenças irracionais geram consequências irracionais quando aplicadas, incluindo:
 
-- Ficar adorando e obcecado por uma ’mulher perfeita 10/10’ quando ela é encontrada, imaginando fazer com ela coisas que talvez você nem considere corretas de se fazer.
-- Se ver como um perdedor se não transar, como se fosse a coisa mais importante da humanidade.
-- Ficar esperando por uma 10/10 perfeita.
-- Ser excessivamente julgador e crítico de possíveis parceiros(as).
-- Forçar-se a ter sexo, quer queira ou não.
+- Adorar e ficar obcecado por um "10/10 perfeito", quando esse é achado.
 
-É o medo de que uma noite solitária será miserável, controlando e lutando contra impulsos descontrolados. Medo de que a noite anterior a uma prova será uma noite infernal sem pornô. Medo de que nunca seremos capazes de se concentrar, lidar com estresse ou ser confiante sem nossa muleta ou que nossa personalidade e caráter irão mudar.
+- Perceber-se como um perdedor se você não fizer sexo, como se fosse a coisa mais importante na experiência humana.
 
-Mas medo acima de tudo, de que ’uma vez viciado, sempre viciado’: que nunca seremos completamente livres, passando o resto das nossas vidas ansiando pelo orgasmo com pornô em tempos inoportunos. Se, como eu, você já tentou todos os métodos convencionais para parar e passou por miséria e tortura com o ’método da força de vontade’, você não só será afetado por esse medo, você será convencido de que nunca conseguirá parar.
+- Esperar por um 10 perfeito.
 
-Se você está apreensivo, em pânico ou sente que esse não é o momento certo para você parar, eu te garanto que sua apreensão e pânico não é aliviado pela pornografia -- é causado por ela. Você não decidiu cair na armadilha da pornografia, mas como todas as armadilhas, é desenhada para garantir que você permaneça preso. Pergunte-se: quando você viu os primeiros vídeos e fotos pornográficas, você tomou a decisão de voltar e continuar assistindo enquanto durar sua vida? Então quando você vai parar? Amanhã? Ano que vem? Pare de se enganar! A armadilha é feita para te prender pelo resto da vida. Por que você acha que esses outros viciados não param antes que o vício ’acabe’ com a vida deles?
+- Julgar em excesso e ser excessivamente crítico sobre parceiros em potencial.
 
-Eu falei sobre um botão mágico; o Método Fácil funciona justamente como esse botão. Esclarecendo: o Método Fácil não é mágico, mas pra mim e outras pessoas que acharam fácil e agradável sair do vício, parece que é!
+- Obrigar-se a fazer sexo, querendo ou não.
 
-O aviso é o seguinte:
+É o medo de que uma noite sozinho será miserável e será gasta lutando contra impulsos incontroláveis. Medo de que a noite anterior às provas será uma noite infernal sem pornografia. Medo de que nunca seremos capazes de nos concentrar, lidar com o estresse ou sermos tão confiantes sem nossa pequena muleta e de que nossa personalidade e caráter mudarão.
 
-É uma situação de galinha e ovo: todo viciado quer se livrar do vício e todo viciado pode achar fácil e agradável sair do vício. É somente o **medo** que previne os usuários de tentarem sair. O maior ganho é se livrar desse medo, mas você não será livre desse vício enquanto não terminar o livro. Pelo contrário, seu medo pode aumentar durante a leitura, o que pode te impedir de terminar de ler. Veja esse comentário de uma mulher.
+Mas acima de tudo, medo de que “uma vez viciado, sempre um viciado”: que nunca seremos completamente livres, passando o resto de nossas vidas desejando um ocasional orgasmo induzido por pornografia em momentos difíceis. Se, como eu fiz, você já tentou todas as maneiras convencionais de parar e já passou pela miséria e tortura do "método da força de vontade", você não será apenas afetado por esse medo, mas estará convencido de que nunca conseguirá parar.
 
-**"Terminei agora de ler o Método Fácil. Eu sei que só se passaram quatro dias mas eu me sinto tão ótima, eu tenho certeza de que eu nunca usarei pornografia novamente. Eu comecei a ler o livro cinco meses atrás, li até metade e entrei em pânico. Eu sabia que se eu continuasse lendo, teria que parar. Não fui boba?"**
+Se você está apreensivo, em pânico ou sente que não é o momento certo para parar, deixe-me garantir que sua apreensão e pânico não são aliviados pela pornografia — são causados por ela. Você não decidiu cair na armadilha da pornografia, mas como todas as armadilhas, ela foi projetada para garantir que você continue preso. Pergunte a si mesmo, quando você viu aquelas primeiras fotos e vídeos pornô, você decidiu voltar para vê-los durante toda a vida? Então, quando você vai parar? Amanhã? Ano que vem? Pare de se enganar! A armadilha foi projetada para prendê-lo por toda a vida. Por que mais você acha que todos esses outros viciados não desistem antes dela “matar” a vidas deles?
 
-Você não escolheu cair na armadilha, mas mantenha isso em mente: você não escapará do vício enquanto não tomar uma decisão afirmativa para parar. Talvez você já esteja igual um cachorro tentando se livrar da corrente ou está apreensivo por pensar nisso, mas de qualquer forma, tenha em mente: **VOCÊ NÃO TEM NADA A PERDER!**
+Eu me referi a um botão mágico; o Método Fácil funciona como aquele botão mágico. Deixe-me ser claro, o Método Fácil não é mágico, mas para mim e para outros que acharam tão fácil e agradável parar, parece que sim!
 
-Se ao final do livro você decidir continuar a usar pornografia para se masturbar ou fazer sexo, não há nada te impedindo a fazer isto. Você não precisa nem diminuir o consumo ou parar de usar pornô enquanto lê o livro. E lembre-se que não há tratamento de choque, pelo contrário, só tenho boas notícias para você. Você pode imaginar como Andy Dufresne se sentiu quando finalmente se livrou da prisão no filme Um Sonho de Liberdade? Foi assim que me senti quando eu escapei da armadilha da pornografia, e é exatamente assim que os usuários que usaram esse método se sentem. Ao final do livro, é assim que você vai se sentir! Prossiga!
+O aviso é o seguinte: Esta é uma situação da galinha e do ovo: todo viciado deseja parar e todo viciado pode achar fácil e agradável parar. É apenas o medo que impede os usuários de tentarem parar. O maior ganho é se livrar desse medo, mas você não ficará livre desse medo até que conclua o livro. Pelo contrário, seu medo pode aumentar à medida que você continua lendo, o que pode impedi-lo de terminá-lo. Olhe este comentário de uma mulher.
+
+**“Acabei de terminar Método Fácil. Eu sei que se passaram apenas quatro dias, mas me sinto tão bem, eu sei que nunca vou precisar usar pornografia novamente. Comecei a ler o seu livro cinco meses atrás, cheguei na metade e entrei em pânico. Eu sabia que se eu continuasse a ler eu teria de parar. Não fui boba?"**
+
+Você não decidiu cair na armadilha, mas esteja claro em sua mente: você não vai escapar dela a menos que tome a decisão afirmativa de escapar. Você pode já estar muito ansioso para parar, ou pode estar apreensivo com o pensamento de parar em si, mas de qualquer forma, por favor, mantenha em mente: **VOCÊ NÃO TEM NADA A PERDER!**
+
+Se no final do livro você decidir que quer continuar a usar pornografia para se masturbar ou fazer sexo, não tem nada que o impeça de fazer isso. Você não precisa nem diminuir o uso ou parar de usar pornografia enquanto lê o livro e, lembre-se, não há terapia de choque. Pelo contrário, só tenho boas notícias para você. Você pode imaginar como Andy Dufresne se sentiu quando finalmente escapou da Penitenciária de Shawshank? Foi assim que me senti quando escapei da armadilha da pornografia, e é assim que os ex-usuários que usaram o Método Fácil se sentem. Ao final do livro, é assim que você vai se senti! Vá em frente!
 
 ## Finalmente...
 
-Todo mundo pode achar fácil e agradável sair da pornografia, incluindo você! Tudo que você tem que fazer é continuar lendo o livro com a mente aberta; quanto mais você entender, mais fácil será. Mesmo se você não entender uma palavra, desde que siga as instruções, você achará fácil. O mais importante é que você não viverá se lamentando querendo pornografia ou se sentindo privado, e ao final do livro o único mistério será porquê você fez isso por tanto tempo.
+Todo mundo pode achar fácil e agradável parar com a pornografia, incluindo você! Tudo que você tem que fazer é continuar lendo o livro com a mente aberta; quanto mais você entender, mais fácil será. Mesmo se você não entender uma palavra, desde que siga as instruções, você achará fácil. Mais importante: você não viverá se lamentando por querer pornografia ou se sentindo privado, e ao final do livro o único mistério será porquê você fez isso por tanto tempo.
 
-Com o Método Fácil há somente duas razões para o fracasso.
+Com o Método Fácil só há duas razões para o fracasso.
 
-**Falhar em seguir as instruções**
-Alguns acharão chato que esse livro é tão dogmático com algumas recomendações, como não tentar diminuir o uso ou usar substitutos. Não nego que há muitos que tiveram sucesso em parar usando essas táticas, mas eles tiveram sucesso *apesar delas* e não por causa delas. Algumas pessoas conseguem fazer amor em pé numa rede, mas não é o modo mais fácil. Os números da senha para abrir o cadeado dessa armadilha estão nesse livro, mas é necessário digitar eles na ordem correta: ir de um capítulo em capítulo, sem pular nenhum deles.
+**Falhar em seguir as instruções.** Alguns acharão chato que esse livro é tão dogmático com algumas recomendações, como não tentar diminuir o uso ou usar substitutos. Eu, certamente, não nego que há muitos que tiveram sucesso em parar usando essas artimanhas, mas eles tiveram sucesso *apesar delas* e não por causa delas. Algumas pessoas conseguem fazer amor em pé numa rede, mas não é o modo mais fácil. Os números da senha para abrir o cadeado dessa armadilha estão nesse livro, mas é necessário digitar eles na ordem correta: ir de um capítulo em capítulo e sem pular capítulos.
 
-**Falhar em entender**
-Não aceite qualquer coisa como correta, questione não só o que te contam mas também sua própria visão e o que a sociedade te contou sobre sexo, pornô e vício. Por exemplo, quem acredita ser um hábito, pergunte a si mesmo por que outros hábitos, alguns que são até agradáveis, são fáceis de quebrar enquanto um hábito que trás sensações horríveis custa energia, tempo e virilidade é tão difícil de quebrar. Aqueles que acreditam que apreciam a pornografia, perguntem a si mesmos por que outras coisas que são mais prazerosas você consegue usar ou parar de usar sem problema. Por que você *tem* que se masturbar e assitir pornô, entrando em pânico se não o fizer?
+**Falhar em entender.** Não aceite nada como correto, questione não só o que te contam, mas sua própria visão e o que a sociedade te contou sobre sexo, pornô da internet e vício. Por exemplo, quem acredita ser apenas um hábito, pergunte a si mesmo por que outros hábitos — alguns que são até agradáveis — são fáceis de quebrar, enquanto um hábito que traz sensações horríveis, que custa energia, tempo e virilidade é tão difícil de quebrar. Aqueles que acreditam que apreciam a pornografia, perguntem a si mesmos por que outras coisas que são infinitamente mais prazerosas você consegue escolher se usa ou não sem dificuldades. Por que você *tem* que usar pornô, entrando em pânico se não usar?
 
-O Método Fácil te dará o conhecimento de quão fácil e agradável é sair do vício da pornografia. Como muitos outros, uma das minhas grandes conquistas na vida têm sido escapar da armadilha. Não há necessidade de se sentir deprimido, pelo contrário, você está prestes a realizar algo que todo usuário do planeta adoraria obter: **LIBERDADE!**
+O Método Fácil te dará o conhecimento de quão fácil e agradável é abandonar a pornografia. Como muitos outros, um dos maiores triunfos na vida tem sido escapar da armadilha da pornografia. Não há necessidade de se sentir deprimido, pelo contrário, você está prestes a realizar algo que todo usuário do planeta adoraria alcançar: **LIBERDADE!**
 
-**LEMBRE-SE, NÃO PULE  CAPÍTULOS.**
+**LEMBRE-SE, NÃO PULE CAPÍTULOS.**
 
-Alguns termos antes de começarmos:
+Alguns termos antes de começar:
 ***PMO***: O ciclo da pornografia, masturbação e orgasmo.
 ***Harém virtual***: Sites que possuem pornografia.
+
+## Dicas para leitura e pequenas notas finais
+
+**Não leia esse livro como um livro normal**, ele é muito curto e você deve ser capaz de terminá-lo em duas horas. A maioria das pessoas se beneficia de *marcar* ou *fazer anotações* e geralmente recomenda **relê-lo** algumas vezes para solidificar totalmente as lições.
+
+Por que o *hackbook*? Porque o Allen Carr faleceu há muito tempo e as instituições que ele formou não listam a pornografia da internet como um dos vícios para os quais eles oferecem tratamento. Eu não faço lucro ou algo assim.
+
+Ao longo desse livro, eu, o *Hackauthor* original e Allen Carr vamos aparecer transparentemente a fim de te proporcionar um método único e convincente de parar facilmente e sem dor.
+
+<span style="font-size:smaller;">**Hackbook:** Um livro baseado e ""hackeado"" de outro livro. O autor original é totalmente creditado. </span>
+
+Existem várias comunidades para o *hackbook* também, mas recomendo verificá-las somente depois de terminar de ler o livro.
+
+[urbit](https://urbit.org) - ~mislyr-midnyt/coomer (agora realmente funciona!! melhor metodo de contato possivel, pf usa esse) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) (do site original) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [formulário de *feedback*](https://forms.gle/p7cTxowaNpKqgi5Z7)
+
+Lembrete rápido: NÃO SALTE OS CAPÍTULOS
+
+Eu lhe desejaria sorte, mas como você aprenderá em breve, você não precisa dela.
+
+Boas vibrações,
+
+Hackauthor²
+
+![Creative Commons License Image](img-cc-by-sa.png){width=88 height=31}
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). Code is [GPLv3](https://gitlab.com/snuggy/easypeasy/-/blob/master/LICENSE).
 
 <div class="pagination-selector">
 <a href="02-porque-e-dificil-parar.html" class="chapter-btn">Próximo capítulo &#8594;</a>
