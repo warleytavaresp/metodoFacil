@@ -168,7 +168,7 @@ Existem várias comunidades para o *hackbook* também, mas recomendo verificá-l
 
 [urbit](https://urbit.org) - ~mislyr-midnyt/coomer (agora realmente funciona!! melhor metodo de contato possivel, pf usa esse) | [coomer meme archive](https://coomer.org) | [analytics](https://plausible.io/easypeasymethod.org) (do site original) | [matrix](https://matrix.to/#/!xmJZznbJXuwzEGSEti:matrix.org?via=matrix.org) | [discord](https://discord.com/invite/bCXEnf9) | [reddit](https://reddit.com/r/pmohackbook) | [formulário de *feedback*](https://forms.gle/p7cTxowaNpKqgi5Z7)
 
-Lembrete rápido: NÃO SALTE OS CAPÍTULOS
+Lembrete rápido: NÃO PULE CAPÍTULOS
 
 Eu lhe desejaria sorte, mas como você aprenderá em breve, você não precisa dela.
 
